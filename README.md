@@ -13,7 +13,7 @@ Maintaining a healthy community is _everyone's job_ and so is neighborhood surve
 described to O.M.E.N. (Offical Mayor Endorsed News), "I, your Mayor, look to you, the great citizens
 of `term-world` to help define the ideal citizen contributors. To you, people of this fair city, I (your Mayor) ask for the profile of the most resilient, representative residents!"
 
-As O.M.E.N. has learned, this means trawling through much of the data kept at the newly-restored city `datamart` to uncover the statistics describing the very demonstrative denizens which detail the ideal community member. This data digs deep. As O.M.E.N. was told to say, it covers all of the behaviors that a mindful member of `term-world` must aspire to. "We've been collecting data on you, our citizens, this whole time!" the Mayor reiterated.
+As O.M.E.N. has learned, this means trawling through much of the data kept at the newly-restored city `datamart` to uncover the statistics describing the very demonstrative denizens which detail the ideal community member. This data digs deep. Using words that O.M.E.N. was told to say, it covers all of the behaviors that a mindful member of `term-world` must aspire to. "We've been collecting data on you, our citizens, this whole time!" the Mayor reiterated.
 
 Will you, great residents of `term-world` help define the future of this digital world? The Mayor certainly hopes so, saying "[y]our Mayor--of course, that's me--depends on you to compile every last criterion toward identifying the luminaries of our land!" To those who meet the basic benchmarks go all the spoils! Just exactly what those spoils are, the Mayor's Office declines to say.
 
