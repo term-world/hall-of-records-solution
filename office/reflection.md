@@ -25,3 +25,7 @@ TODO
 ## For completing this work, the Mayor's Office asks what you believe constitutes fair compensation. What is "fair compensation" for this?
 
 TODO
+
+## How did using `dictionary`s make this work easier than doing analysis with `list`s?
+
+TODO
