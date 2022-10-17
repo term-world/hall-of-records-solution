@@ -41,9 +41,9 @@ As with `datamart`, there are plenty of opportunities for improvements to how yo
 
 ## Accessing `hall-of-recods` Content
 
-In order to complete the workload for the `hall-of-records` you'll first need to `clone` the `datamart` repository into your `workshop`.
+In order to complete the workload for the `hall-of-records` you'll first need to `clone` the `hall-of-records` repository into your `workshop`.
 
-When you `clone` a repository you're duplicating its contents and adding them to your local workspace. Since you'll be working collaboratively with your neighbors, you'll each need your own copy of the `datamart` to work with.
+When you `clone` a repository you're duplicating its contents and adding them to your local workspace. Since you'll be working collaboratively with your neighbors, you'll each need your own copy of the `hall-of-records` to work with.
 
 In order to keep some of the magic (read: somewhat convoluted code) that makes `term-world` work the way it does, **you are required to clone all additional repositories within the `workshop`, located within your `garage`.**
 
@@ -109,7 +109,7 @@ You may protest completing this assignment by writing an `editorial.md` in the `
 
 ## Evaluating `hall-of-records` Content
 
-In order to run the `grader` for this week's work, you'll need to be in the topmost level of the `datamart` folder (which should have been cloned within the `workshop`). Once there, run the command:
+In order to run the `grader` for this week's work, you'll need to be in the topmost level of the `hall-of-records` folder (which should have been cloned within the `workshop`). Once there, run the command:
 
 ```
 gatorgrade
