@@ -75,25 +75,3 @@
       exact: false
 
   # Does it work or b0rk?
-
-- description: Processor.py search_rows works correctly
-  check: MatchCommandFragment
-  options:
-    command: 'python Processor.py < .tests/.searchall'
-    fragment: "44" 
-    count: 1
-    exact: true
-- description: Processor.py averages a column correctly
-  check: MatchCommandFragment
-  options:
-    command: 'python Processor.py < .tests/.avghours'
-    fragment: "124"
-    count: 1
-    exact: true
-- description: Processor.py totals a column correctly
-  check: MatchCommandFragment
-  options:
-    command: 'python Processor.py < .tests/.totalhours'
-    fragment: "5465"
-    count: 1
-    exact: true
