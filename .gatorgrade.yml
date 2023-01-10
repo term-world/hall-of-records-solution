@@ -7,9 +7,9 @@
     command: 'bash .tests/.todos'
 - Processor.py:
   - description: 'Processor.py contains no TODO markers'
-    category: 
+    category: TODO Tracking
     check: MatchFileFragment
-    options: TODO Tracking
+    options:
       fragment: 'TODO'
       count: 0
       exact: true
