@@ -1,11 +1,13 @@
 # TODOs
 
 - description: No TODO markers left in reflection.md or editorial.md
+  category: TODO Tracking
   check: ExecuteCommand
   options:
     command: 'bash .tests/.todos'
 - Processor.py:
   - description: 'Processor.py contains no TODO markers'
+    category: TODO Tracking
     check: MatchFileFragment
     options:
       fragment: 'TODO'
@@ -16,6 +18,7 @@
 
 - Processor.py:
   - description: Processor.py implements a function called search_rows with 2 parameters
+    category: Function Forming (search_rows)
     check: MatchFileRegex
     options:
       regex: 'def search_rows\([a-zA-Z0-9_\:\s=#"]+,(\s)?[a-zA-Z0-9_\:\s=#"]+\)(.*)?\:'
@@ -23,6 +26,7 @@
       exact: true
 - Processor.py:
   - description: Processor.py implements a function called total_column with 1 parameters
+    category: Function Forming (total_column)
     check: MatchFileRegex
     options:
       regex: 'def total_column\([a-zA-Z0-9_\:\s=#"]+\)(.*)?\:'
@@ -30,6 +34,7 @@
       exact: true
 - Processor.py:
   - description: Processor.py calls a function called search_rows, passing 2 arguments
+    category: Function Forming (search_rows)
     check: MatchFileRegex
     options:
       regex: 'search_rows\([a-zA-Z0-9_\(\)"]+,(\s)?[a-zA-Z0-9_\(\)"]+\)'
@@ -37,6 +42,7 @@
       exact: false
 - Processor.py:
   - description: Processor.py calls a function called total_column, passing 1 argument
+    category: Function Forming (total_column)
     check: MatchFileRegex
     options:
       regex: 'total_column\([a-zA-Z0-9_\(\)\[\]"]+\)'
@@ -47,6 +53,7 @@
 
 - Processor.py:
   - description: Processor.py iterates (for loop) over the DATA set enough times
+    category: Function Forming (search_rows / total_column)
     check: MatchFileRegex
     options:
       regex: 'for\s[a-zA-Z0-9_]+\sin\sDATA\:'
@@ -54,6 +61,7 @@
       exact: false
 - Processor.py:
   - description: search_rows uses the correct relational operator (>=) to test values
+    category: Function Forming (search_rows)
     check: MatchFileRegex
     options:
       regex: 'if\s[a-zA-Z0-9\[\]_\(\)]+\s>\='
@@ -61,6 +69,7 @@
       exact: false
 - Processor.py:
   - description: Processor.py uses a break statement to quit the program
+    category: Function Forming (main)
     check: MatchFileFragment
     options: 
       fragment: 'break'
@@ -68,6 +77,7 @@
       exact: false
 - Processor.py:
   - description: Processor.py uses f-strings in print statements to display results
+    category: Function Forming (main)
     check: MatchFileRegex
     options:
       regex: 'print\(f"'
