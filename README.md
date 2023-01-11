@@ -78,7 +78,7 @@ All of the above tasks completed, finish the reflection located in the `office` 
 
 You may protest completing this assignment by writing an `editorial.md` in the `office` _instead_ of a `reflection.md`. Doing so _does not mean_ not completing the code for this assignment. Rather, it indicates that you should compose an evidence-based argument that uses your analysis to persuade your fellow citizens to your cause.
 
-### Improvement Suggestions
+## Improvement Suggestions
 
 Here are some suggestions for improvements you can, **but are not limited to** use:
 
