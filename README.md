@@ -88,7 +88,15 @@ To make an improvement proposal, you must _create an issue_ on this repository. 
 * clicking the green `New Issue` button
 * selecting the `Improvement Proposal` template 
 
-**You must fill out the entire template and wait for Mayoral approval before starting the improvement.**
+### Improvement Suggestions
+
+Here are some suggestions for improvements you can use:
+
+|Improvement Suggestions |Description        |Example(s)         |
+|:--------------------|:------------------|:----------|
+|                     |                   |           |
+
+**If you are not following an improvment suggestion you need to have your improvement suggestion checked by the professor before proceeding.**
 
 ## Backup Policy Reminder
 
