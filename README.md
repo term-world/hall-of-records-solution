@@ -80,7 +80,7 @@ You may protest completing this assignment by writing an `editorial.md` in the `
 
 ### Improvement Suggestions
 
-Here are some suggestions for improvements you can use:
+Here are some suggestions for improvements you can, **but are not limited to** use:
 
 |Improvement Suggestions |Description        |Example(s)         |
 |:--------------------|:------------------|:----------|
